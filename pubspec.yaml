@@ -1,0 +1,11 @@
+name: voxanim
+description: High-performance skeletal animation blending, 1D/2D blend trees, and inverse kinematics (TwoBoneIK, FABRIK, AimIK) for Dart.
+version: 0.1.0
+repository: https://github.com/soulwax/voxanim
+
+environment:
+  sdk: ^3.12.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
