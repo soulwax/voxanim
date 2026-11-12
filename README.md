@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxanim logo"/>
+</p>
+
 # voxanim
 
 High-performance skeletal animation blending, 1D/2D blend trees, and inverse kinematics (TwoBoneIK, FABRIK, AimIK) for Dart.
